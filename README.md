@@ -11,8 +11,6 @@
 
 <h2> About Me</h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 - ⚡ Managing Director Of Amicritas Software Ltd.
   
 - ⚡ 10 Years Experience Working With USA, Canadian IT Companies.
