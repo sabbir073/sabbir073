@@ -19,7 +19,7 @@
   
 - ⚡ Ask Me Anything About Java, Javascript, NodeJs, ReactJs, PHP, Python, REST API, Wordpress, Laravel, Codeigniter, Flutter, SQL Etc.
   
-- ⚡ Certified Full Stack Developer with 50+ certifications.
+- ⚡ Certified Full Stack Developer with 30+ certifications.
 
 - ⚡ Certified AWS & Google Cloud Expert.
 
