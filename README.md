@@ -9,7 +9,11 @@
 
 <h2> About Me</h2>
 
-- ⚡ Managing Director Of Amicritas Software Ltd.
+- ⚡ Senior Software Engineer & Trainer at Xubisoft LTD.
+
+- ⚡ Lead CMS Engineer at Sense & Respond Software LLC.
+
+- ⚡ Former Managing Director Of Amicritas Software Ltd.
   
 - ⚡ 10 Years Experience Working With USA, Canadian IT Companies.
   
@@ -17,7 +21,7 @@
   
 - ⚡ Ask Me Anything About Java, Javascript, NodeJs, ReactJs, PHP, Python, REST API, Wordpress, Laravel, Codeigniter, Flutter, SQL Etc.
   
-- ⚡ Certified Full Stack Developer with 30+ certifications.
+- ⚡ Certified Full Stack Developer with 5+ certifications.
 
 - ⚡ Certified AWS & Google Cloud Expert.
 
