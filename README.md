@@ -13,7 +13,7 @@
 
 - ⚡ Lead CMS Engineer at Sense & Respond Software LLC.
 
-- ⚡ Former Managing Director Of Amicritas Software Ltd.
+- ⚡ Former Managing Director Of Amicritas IT Ltd.
   
 - ⚡ 10 Years Experience Working With USA, Canadian IT Companies.
   
