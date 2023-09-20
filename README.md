@@ -98,7 +98,7 @@
 <br>
   <br>
   
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sabbir073&theme=tokyonight)](https://git.io/praveenscience)
+[![Sabbir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sabbir073&theme=tokyonight)](https://github.com/sabbir073/sabbir073)
 
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=sabbir073&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabbir073&theme=tokyonight) |
 | --- | --- |
