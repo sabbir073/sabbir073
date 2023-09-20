@@ -100,7 +100,7 @@
   
 [![Sabbir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sabbir073&theme=redical)](https://github.com/sabbir073/sabbir073)
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=sabbir073&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabbir073&theme=tokyonight) |
+| ![Sabbir's github stats](https://github-readme-stats.vercel.app/api?username=sabbir073&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://streak-stats.demolab.com?user=sabbir073&theme=radical)](https://git.io/streak-stats) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir073&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=sabbir073&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
