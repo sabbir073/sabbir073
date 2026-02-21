@@ -1,112 +1,161 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Hello+Developers!+I'm+Md+Sabbir+Ahmed+👋;AI+%26+Automation+Team+Lead+%7C+Senior+Software+Engineer;DevOps+Engineer+%7C+Cloud+Architect;10%2B+Years+Professional+Experience;Building+Scalable+Systems+%26+Smart+Automation+🚀" />
 
-![](https://komarev.com/ghpvc/?username=sabbir073&color=green)
-[![Github](https://img.shields.io/github/followers/sabbir073?label=Follow&style=social)](https://github.com/sabbir073)
+<img src="https://komarev.com/ghpvc/?username=sabbir073&style=for-the-badge&color=00e7ff" />
+<a href="https://github.com/sabbir073?tab=followers">
+  <img src="https://img.shields.io/github/followers/sabbir073?style=for-the-badge&color=00e7ff"/>
+</a>
 
-<div size='20px'> Hi! My name is Md Sabbir Ahmed. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me</h2>
+---
 
-- ⚡ Senior Software Engineer & Trainer at Xubisoft LTD.
+## 👨‍💻 About Me
 
-- ⚡ Lead CMS Engineer at Sense & Respond Software LLC.
+I’m **Md Sabbir Ahmed**, a **Certified Full-Stack Developer, DevOps Engineer & AI Automation Team Lead** with **10+ years of experience** delivering secure, scalable, and high-performance digital solutions for **USA & Canadian companies**.
 
-- ⚡ Former Managing Director Of Amicritas IT Ltd.
-  
-- ⚡ 10 Years Experience Working With USA, Canadian IT Companies.
-  
-- ⚡ Problem Solving Expert in Different Kind of Programming Languages.
-  
-- ⚡ Ask Me Anything About Java, Javascript, NodeJs, ReactJs, PHP, Python, REST API, Wordpress, Laravel, Codeigniter, Flutter, SQL Etc.
-  
-- ⚡ Certified Full Stack Developer with 5+ certifications.
+Currently leading **AI & Automation Engineering** while also working as a **Senior CMS Engineer & Cloud Architect**.
 
-- ⚡ Certified AWS & Google Cloud Expert.
+### 🔹 Current Role
 
-- ⚡ Hands on Experience in Linux Based Web Hosting, VPS, Email, FTP, Streaming Servers.
+- 🏢 **AI & Automation Team Lead — Smart-Lab Global** *(May 2025 – Present)*
 
-- ⚡ 360° IT Solutions Expert.
+### 🔹 Previous Roles
 
-- ⚡ IT Entrapreneur, Senior IT Consultant, Quick Learner & Open to Discuss About Technologies.
+- 🏢 **Senior CMS Engineer — Sense & Respond Software LLC (USA)**
+- 🏢 **Senior Developer — Xubisoft Limited**
+- 🏢 **Founder & Managing Director — Amicritas Software Ltd**
+- 🏢 **System Administrator — MRA Media Pvt Ltd**
+- 🏢 **Web Developer — Uttara IT Solutions**
+- 🏢 **Web Developer — FirstTrek IT**
 
+---
 
-<h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> </h2>
-<a href="https://www.android.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'></a>&nbsp;
-<a href="https://angularjs.org/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'></a>&nbsp;
-<a href="https://www.arduino.cc/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/arduino.svg'></a>&nbsp;
-<a href="https://aws.amazon.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'></a>&nbsp;
-<a href="https://getbootstrap.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'></a>&nbsp;
-<a href="https://canvasjs.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/canvasjs.svg'></a>&nbsp;
-<a href="https://codeigniter.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/codeigniter.svg'></a>&nbsp;
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></a>&nbsp;
-<a href="https://dart.dev/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dart.svg'></a>&nbsp;
-<a href="https://www.djangoproject.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'></a>&nbsp;
-<a href="https://www.docker.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'></a>&nbsp;
-<a href="https://www.dropbox.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dropbox.svg'></a>&nbsp;
-<a href="https://www.elastic.co/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/elasticsearch.svg'></a>&nbsp;
-<a href="https://expressjs.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'></a>&nbsp;
-<a href="https://firebase.google.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'></a>&nbsp;
-<a href="https://flutter.dev/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'></a>&nbsp;
-<a href="https://www.gatsbyjs.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gatsby.svg'></a>&nbsp;
-<a href="https://github.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'></a>&nbsp;
-<a href="https://graphql.org/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/graphql.svg'></a>&nbsp;
-<a href="https://www.heroku.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg'></a>&nbsp;
-<a href="https://html.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></a>&nbsp;
-<a href="https://ionicframework.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/ionic.svg'></a>&nbsp;
-<a href="https://www.java.com/en/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'></a>&nbsp;
-<a href="https://www.javascript.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></a>&nbsp;
-<a href="https://laravel.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'></a>&nbsp;
-<a href="https://www.linux.org/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'></a>&nbsp;
-<a href="https://mariadb.org/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mariadb.svg'></a>&nbsp;
-<a href="https://materializecss.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/materialize.svg'></a>&nbsp;
-<a href="https://www.mongodb.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'></a>&nbsp;
-<a href="https://www.mysql.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'></a>&nbsp;
-<a href="https://nextjs.org/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'></a>&nbsp;
-<a href="https://www.nginx.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nginx.svg'></a>&nbsp;
-<a href="https://nodejs.org/en/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'></a>&nbsp;
-<a href="https://www.npmjs.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/npm.svg'></a>&nbsp;
-<a href="https://www.oracle.com/index.html"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/oracle.svg'></a>&nbsp;
-<a href="https://www.php.net/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'></a>&nbsp;
-<a href="https://www.postgresql.org/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'></a>&nbsp;
-<a href="https://www.postman.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'></a>&nbsp;
-<a href="https://www.python.org/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'></a>&nbsp;
-<a href="https://reactjs.org/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></a>&nbsp;
-<a href="https://redis.io/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redis.svg'></a>&nbsp;
-<a href="https://redux.js.org/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'></a>&nbsp;
-<a href="https://sass-lang.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'></a>&nbsp;
-<a href="https://www.sqlite.org/index.html"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'></a>&nbsp;
-<a href="https://developer.apple.com/swift/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/swift.svg'></a>&nbsp;
-<a href="https://symfony.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/symfony.svg'></a>&nbsp;
-<a href="https://tailwindcss.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'></a>&nbsp;
-<a href="https://www.typescriptlang.org/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'></a>&nbsp;
-<a href="https://vuejs.org/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg'></a>&nbsp;
-<a href="https://webpack.js.org/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/webpack.svg'></a>&nbsp;
-<a href="https://wordpress.org/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg'></a>&nbsp;
-<a href="https://dotnet.microsoft.com/en-us/apps/xamarin"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/xamarin.svg'></a>&nbsp;
-<a href="https://zapier.com/"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/zapier.svg'></a>&nbsp;
+## 🧠 Professional Summary
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
-<a href = 'https://bd.linkedin.com/in/sabbir073'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp;
-<a href = 'https://facebook.com/Fun2uze'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a> &nbsp;
-<a href = 'https://www.instagram.com/sabbir.amicritas/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>&nbsp;
-<a href = 'https://www.github.com/sabbir073'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>&nbsp;
+Certified **Full-Stack Developer & DevOps Engineer** specializing in:
 
-<br>
-<br>
-  <br>
-  
-[![Sabbir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sabbir073&theme=redical)](https://github.com/sabbir073/sabbir073)
+- Cloud architecture & automation  
+- Scalable backend systems  
+- AI workflow automation  
+- Enterprise CMS platforms  
+- High-performance server engineering  
 
-| ![Sabbir's github stats](https://github-readme-stats.vercel.app/api?username=sabbir073&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://streak-stats.demolab.com?user=sabbir073&theme=radical)](https://git.io/streak-stats) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir073&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=sabbir073&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+I design and deploy **secure, high-availability infrastructures** and build **robust full-stack systems** optimized for **speed, security, and scalability**.
 
+---
 
+## 🛠 Tech Stack & Tools
 
-<br>
+<div align="center">
 
+### 🚀 Frontend
+<img src="https://skillicons.dev/icons?i=react,next,vue,angular,html,css,tailwind,bootstrap,flutter" />
 
------
+### ⚙ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,django,java" />
+
+### 🗄 Database
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,oracle" />
+
+### ☁ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,nginx,git,githubactions" />
+
+### 🔐 Security & Automation
+<img src="https://skillicons.dev/icons?i=bash,postman,firebase,graphql" />
+
+</div>
+
+---
+
+## 🏆 Core Expertise
+
+- AI Automation Workflows (n8n, scraping, data pipelines)
+- Cloud Architecture (AWS & Google Cloud)
+- Linux Server & VPS Engineering
+- DevOps CI/CD Pipelines
+- REST & GraphQL API Development
+- Enterprise CMS (WordPress, WooCommerce, Headless CMS)
+- SaaS Platform Development
+- Cyber Security & Server Hardening
+- Performance Optimization & Load Balancing
+
+---
+
+## 🎓 Certifications
+
+- Google IT Support Specialization  
+- Google Cloud – Kubernetes Management  
+- BigQuery Data Analytics  
+- TensorFlow Image Classification  
+- Robotics & Automation  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sabbir073&show_icons=true&theme=radical&count_private=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbir073&theme=radical" height="180"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir073&layout=compact&theme=radical" height="160"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+[![Sabbir's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sabbir073&theme=react-dark)](https://github.com/sabbir073)
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://bd.linkedin.com/in/sabbir073">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+
+<a href="https://facebook.com/Fun2uze">
+<img src="https://skillicons.dev/icons?i=facebook" width="48"/>
+</a>
+
+<a href="https://instagram.com/sabbir.amicritas">
+<img src="https://skillicons.dev/icons?i=instagram" width="48"/>
+</a>
+
+<a href="https://github.com/sabbir073">
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
+</a>
+
+</div>
+
+---
+
+## 💬 Let's Collaborate
+
+💡 I love working on:
+
+- AI automation systems  
+- High-scale SaaS platforms  
+- Cloud optimization  
+- DevOps pipelines  
+- Security hardening  
+
+📧 **Open for:** Consulting • System Architecture • Enterprise Projects • AI Automation • DevOps
+
+---
+
+<div align="center">
+
+⭐ *If you find my work useful, consider following me!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+</div>
