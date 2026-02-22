@@ -13,9 +13,7 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
-<img src="./terminal-about.svg" width="800" alt="About Me console" />
-</div>
+
 
 ### 🔹 Current Role
 
