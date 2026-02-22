@@ -1,0 +1,120 @@
+<svg fill="none" viewBox="0 0 800 380" width="800" height="380" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&amp;display=swap');
+
+        .terminal {
+          background: #0d1117;
+          border-radius: 12px;
+          border: 1px solid #30363d;
+          font-family: 'Fira Code', monospace;
+          font-size: 13px;
+          overflow: hidden;
+          box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+        }
+
+        .terminal-header {
+          background: #161b22;
+          padding: 10px 16px;
+          display: flex;
+          align-items: center;
+          gap: 8px;
+          border-bottom: 1px solid #30363d;
+        }
+
+        .dot {
+          width: 12px;
+          height: 12px;
+          border-radius: 50%;
+          display: inline-block;
+        }
+
+        .dot-red { background: #ff5f56; }
+        .dot-yellow { background: #ffbd2e; }
+        .dot-green { background: #27c93f; }
+
+        .terminal-title {
+          color: #8b949e;
+          font-size: 12px;
+          margin-left: 8px;
+          font-family: 'Fira Code', monospace;
+        }
+
+        .terminal-body {
+          padding: 20px;
+          line-height: 1.8;
+          color: #c9d1d9;
+        }
+
+        .prompt { color: #27c93f; }
+        .command { color: #00e7ff; }
+        .flag { color: #ff7b72; }
+        .string { color: #a5d6ff; }
+        .key { color: #d2a8ff; }
+        .value { color: #7ee787; }
+        .separator { color: #f0883e; }
+
+        .blink {
+          animation: blinker 1s step-end infinite;
+        }
+
+        @keyframes blinker {
+          50% { opacity: 0; }
+        }
+
+        .line {
+          opacity: 0;
+          animation: fadeIn 0.3s forwards;
+        }
+
+        .line:nth-child(1)  { animation-delay: 0.0s; }
+        .line:nth-child(2)  { animation-delay: 0.4s; }
+        .line:nth-child(3)  { animation-delay: 0.8s; }
+        .line:nth-child(4)  { animation-delay: 1.0s; }
+        .line:nth-child(5)  { animation-delay: 1.2s; }
+        .line:nth-child(6)  { animation-delay: 1.4s; }
+        .line:nth-child(7)  { animation-delay: 1.6s; }
+        .line:nth-child(8)  { animation-delay: 1.8s; }
+        .line:nth-child(9)  { animation-delay: 2.0s; }
+        .line:nth-child(10) { animation-delay: 2.2s; }
+        .line:nth-child(11) { animation-delay: 2.6s; }
+        .line:nth-child(12) { animation-delay: 3.0s; }
+        .line:nth-child(13) { animation-delay: 3.2s; }
+        .line:nth-child(14) { animation-delay: 3.6s; }
+
+        @keyframes fadeIn {
+          to { opacity: 1; }
+        }
+
+        .i1 { padding-left: 24px; }
+        .i2 { padding-left: 48px; }
+      </style>
+
+      <div class="terminal">
+        <div class="terminal-header">
+          <span class="dot dot-red"></span>
+          <span class="dot dot-yellow"></span>
+          <span class="dot dot-green"></span>
+          <span class="terminal-title">sabbir@dev ~ about-me</span>
+        </div>
+        <div class="terminal-body">
+          <div class="line"><span class="prompt">sabbir@dev:~$</span> <span class="command">cat</span> <span class="flag">about_me.json</span></div>
+          <div class="line"><span class="separator">{</span></div>
+          <div class="line i1"><span class="key">"name"</span><span class="separator">:</span> <span class="string">"Md Sabbir Ahmed"</span><span class="separator">,</span></div>
+          <div class="line i1"><span class="key">"title"</span><span class="separator">:</span> <span class="string">"Full-Stack Developer | DevOps Engineer | AI Automation Lead"</span><span class="separator">,</span></div>
+          <div class="line i1"><span class="key">"experience"</span><span class="separator">:</span> <span class="string">"10+ Years Professional Experience"</span><span class="separator">,</span></div>
+          <div class="line i1"><span class="key">"clients"</span><span class="separator">:</span> <span class="string">"USA &#38; Canadian Companies"</span><span class="separator">,</span></div>
+          <div class="line i1"><span class="key">"current_role"</span><span class="separator">:</span> <span class="string">"AI &#38; Automation Team Lead @ Smart-Lab Global"</span><span class="separator">,</span></div>
+          <div class="line i1"><span class="key">"focus"</span><span class="separator">:</span> <span class="separator">[</span></div>
+          <div class="line i2"><span class="value">"Cloud Architecture &#38; Automation"</span><span class="separator">,</span> <span class="value">"Scalable Backend Systems"</span><span class="separator">,</span></div>
+          <div class="line i2"><span class="value">"AI Workflow Automation"</span><span class="separator">,</span> <span class="value">"Enterprise CMS Platforms"</span></div>
+          <div class="line i1"><span class="separator">],</span></div>
+          <div class="line i1"><span class="key">"mission"</span><span class="separator">:</span> <span class="string">"Building secure, high-availability systems optimized for speed &#38; scale"</span></div>
+          <div class="line"><span class="separator">}</span></div>
+          <div class="line"><span class="prompt">sabbir@dev:~$</span> <span class="blink">&#9612;</span></div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
