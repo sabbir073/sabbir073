@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I’m **Md Sabbir Ahmed**, a **Certified Full-Stack Developer, DevOps Engineer & AI Automation Team Lead** with **10+ years of experience** delivering secure, scalable, and high-performance digital solutions for **USA & Canadian companies**.
+I'm **Md Sabbir Ahmed**, a **Certified Full-Stack Developer, DevOps Engineer & AI Automation Team Lead** with **10+ years of experience** delivering secure, scalable, and high-performance digital solutions for **USA & Canadian companies**.
 
 Currently leading **AI & Automation Engineering** while also working as a **Senior CMS Engineer & Cloud Architect**.
 
@@ -97,12 +97,12 @@ I design and deploy **secure, high-availability infrastructures** and build **ro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sabbir073&show_icons=true&theme=radical&count_private=true" height="180"/>
+<img src="https://github-readme-stats-sabbir073s-projects.vercel.app/api?username=sabbir073&show_icons=true&theme=radical&count_private=true" height="180"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbir073&theme=radical" height="180"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir073&layout=compact&theme=radical" height="160"/>
+<img src="https://github-readme-stats-sabbir073s-projects.vercel.app/api/top-langs/?username=sabbir073&layout=compact&theme=radical" height="160"/>
 
 </div>
 
@@ -119,19 +119,27 @@ I design and deploy **secure, high-availability infrastructures** and build **ro
 <div align="center">
 
 <a href="https://bd.linkedin.com/in/sabbir073">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="https://facebook.com/Fun2uze">
-<img src="https://skillicons.dev/icons?i=facebook" width="48"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-
-<a href="https://instagram.com/sabbir.amicritas">
-<img src="https://skillicons.dev/icons?i=instagram" width="48"/>
+&nbsp;
+<a href="https://www.instagram.com/sabbir.amicritas">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="https://github.com/sabbir073">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.skills.google/public_profiles/0fcdc30d-856a-4912-9abc-290c4dbac10e">
+<img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://stackoverflow.com/users/6401426/md-sabbir-ahmed">
+<img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
 </a>
 
 </div>
