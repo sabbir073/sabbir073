@@ -97,12 +97,12 @@ I design and deploy **secure, high-availability infrastructures** and build **ro
 
 <div align="center">
 
-<img src="https://github-readme-stats-sabbir073s-projects.vercel.app/api?username=sabbir073&show_icons=true&theme=radical&count_private=true" height="180"/>
+<img src="https://github-readme-stats-rho-bice-21.vercel.app/api?username=sabbir073&show_icons=true&theme=radical&count_private=true" height="180"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbir073&theme=radical" height="180"/>
 
 <br/>
 
-<img src="https://github-readme-stats-sabbir073s-projects.vercel.app/api/top-langs/?username=sabbir073&layout=compact&theme=radical" height="160"/>
+<img src="https://github-readme-stats-rho-bice-21.vercel.app/api/top-langs/?username=sabbir073&layout=compact&theme=radical" height="160"/>
 
 </div>
 
